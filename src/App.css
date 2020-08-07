@@ -1,0 +1,55 @@
+.App{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 85vh;
+
+}
+.weather-all{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Indie Flower', cursive;
+    border-radius: 2rem;
+    width: 19rem;
+    height: 73vh;
+    background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+
+}
+.search{
+    display: flex;
+    align-items: start;
+    justify-content: center;
+}
+
+.input{
+    width: 12rem;
+    height: 2rem;
+    border-radius: 2rem;
+    padding-left: 1rem;
+    border: none;
+    outline: none;
+    margin-top: 1.8rem;
+    letter-spacing: 0.2rem;
+    font-family: 'Indie Flower', cursive;
+}
+
+.location-box{
+    text-align: center;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+}
+
+.weather-box{
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.temp{
+    font-size: 4rem;
+}
+
+.weather{
+    font-size: 2rem;
+}
