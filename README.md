@@ -1,5 +1,7 @@
 ## WEATHER APP
 - The project can show the weather of the city you want.
+- I got data from [Weather](https://openweathermap.org/api).
+- I used [Axios](https://github.com/axios/axios) to get data from [the Weather API](https://openweathermap.org/api).
 
 ## SETUP
 
