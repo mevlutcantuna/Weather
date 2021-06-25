@@ -16,7 +16,7 @@ npm install
 ```
 
 ```
-npm start
+yarn start
 ```
 
 Runs the app in the development mode.<br/>
